@@ -13,9 +13,9 @@ title                    : "KimTaekwan's Academic Profile"
 title_separator          : "-"
 name                     : &name "김태관"
 description              : &description "서울벤처대학원대학교 박사과정 | AI 활용, 정보시스템, 직업교육학 연구"
-url                      : https://KimTaekwan.github.io
+url                      : "https://kimtaekwan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KimTaekwan/KimTaekwan.github.io"
+repository               : "KimTaekwan/KimTaekwan.github.io" # This can remain as is, but the url is the critical part. For consistency, using lowercase for URLs is best practice.
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

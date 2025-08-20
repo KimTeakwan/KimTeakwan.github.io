@@ -13,7 +13,7 @@ title                    : "김태관 | 연구 및 개발 포트폴리오"
 title_separator          : "-"
 name                     : &name "김태관"
 description              : &description "서울벤처대학원대학교 박사과정 | AI 활용, 정보시스템, 직업교육학 연구"
-url                      : "https://kimtaekwan.github.io"
+url                      : "https://KimTaekwan.github.io"
 baseurl                  : "" # Force rebuild with this comment
 repository               : "KimTaekwan/KimTaekwan.github.io" # This can remain as is, but the url is the critical part. For consistency, using lowercase for URLs is best practice.
 

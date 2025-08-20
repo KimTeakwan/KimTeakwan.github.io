@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "KimTaekwan's Academic Profile"
+locale                   : "ko-KR"
+site_theme               : "default" # Available: "default", "air"
+title                    : "김태관 | 연구 및 개발 포트폴리오"
 title_separator          : "-"
 name                     : &name "김태관"
 description              : &description "서울벤처대학원대학교 박사과정 | AI 활용, 정보시스템, 직업교육학 연구"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "김태관"
   pronouns         : # example: "he/him"
-  bio              : "풀스텍 개발자를 꿈꾸고있습니다."
+  bio              : "AI, 정보시스템, 직업교육학을 연구하는 박사과정생입니다."
   location         : "Seoul, Korea"
-  employer         : "유원대학교 졸업"
+  employer         : "서울벤처대학원대학교"
   uri              : # URL
   email            : # 실제 이메일 주소로 업데이트 필요 
 

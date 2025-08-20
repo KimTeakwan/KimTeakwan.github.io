@@ -22,7 +22,7 @@ repository               : "KimTaekwan/KimTaekwan.github.io" # This can remain a
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "김태관"
   pronouns         : # example: "he/him"
   bio              : "풀스텍 개발자를 꿈꾸고있습니다."

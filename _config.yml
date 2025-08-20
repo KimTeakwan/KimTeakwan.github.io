@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "KimTaekwan's Academic Profile"
 title_separator          : "-"
 name                     : &name "김태관"
-description              : &description "박사과정 연구자 | AI 및 정보관리 전공 | 직업교육학 전문가"
+description              : &description "유원대학교 학생 | 웹 개발자 지망생 | 정보처리기사 취득 예정"
 url                      : https://aebonlee.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aebonlee/aebonlee.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "김태관"
   pronouns         : # example: "she/her"  
-  bio              : "경영학박사과정 | 정보관리전공 | 직업교육학 전문가"
+  bio              : "유원대학교 학생 | 웹 개발자 지망생 | 정보처리기사 취득 예정"
   location         : "Seoul, Korea"
-  employer         : "서울벤처대학원대학교"
+  employer         : "유원대학교"
   uri              : # URL
   email            : # 실제 이메일 주소로 업데이트 필요 
 
